@@ -1,4 +1,4 @@
-CMARL Expert v7.5 - Selective Reliability Modulation
+Confidence-Aware Cooperative Expert Ensemble (CACE)
 
 Design fixed before test execution:
 - Temporal split: 50% train / 20% validation / 30% independent test.
